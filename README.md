@@ -2,7 +2,6 @@
 
 This is a simple **analog clock** built using **HTML**, **CSS**, and **JavaScript**. It displays the current local time in a classic analog format, with smoothly rotating hour, minute, and second hands.
 
----
 
 ##  Features
 
@@ -11,7 +10,6 @@ This is a simple **analog clock** built using **HTML**, **CSS**, and **JavaScrip
 - Responsive and minimal design
 - Uses JavaScript's `Date` object to fetch live time from the user's computer
 
----
 
 ##  Core Logic
 
